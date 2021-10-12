@@ -1,0 +1,27 @@
+
+.formulario{
+
+    margin-top: 10px;
+    border: solid 1px black;
+    width: 50%;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    background-color: darkgray;
+}
+
+.btn  {
+    margin-top: 10px;
+    width: 100px;
+    padding: 8px;
+
+}
+
+.for-box{
+    display: flex;
+    justify-content: center;
+}
+
+.form-label{
+    padding: 10px;
+}
